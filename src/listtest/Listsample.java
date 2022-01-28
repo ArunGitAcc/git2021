@@ -14,6 +14,7 @@ public static void main(String[] args)
 	li.add(40);
 	li.add(50);
 	li.add(10);
+	
 	System.out.println(li);
 	int size=li.size();
 	System.out.println(size);
@@ -35,7 +36,6 @@ public static void main(String[] args)
 	li1.add("SQL");
 	li1.add(10);
 	System.out.println();
-	
 	System.out.println(li1);
 	 
 	
@@ -67,8 +67,12 @@ public static void main(String[] args)
     }
     
     
+   
+    
+    
     for (int i = 0; i < args.length; i++) {
 		
 	}
+
 }
 }
